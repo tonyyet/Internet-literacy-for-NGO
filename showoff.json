@@ -1,0 +1,8 @@
+{ "name": "Tony's Slides", 
+  "sections": [ 
+    {"section":"title"},
+    {"section":"about_me"},
+    {"section":"workshop"},
+    {"section":"wrapup"}
+]}
+
